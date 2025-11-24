@@ -26,8 +26,6 @@ Estruturas de dados
 
 Funções
 
-Módulos e pacotes
-
 
 🔹 ADS (Faculdade)
 
@@ -36,9 +34,3 @@ Fundamentos de programação
 Lógica computacional
 
 Algoritmos
-
-Banco de dados
-
-Engenharia de software
-
-Arquitetura de sistemas
